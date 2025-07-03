@@ -6,7 +6,7 @@
 
 ## Установка
 ```bash
-git clone
+git clone git@github.com:FANTAzeRus/sputnik-test-app.git
 ```
 
 ## Запуск
